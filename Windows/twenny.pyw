@@ -1,6 +1,6 @@
 from win10toast import ToastNotifier
 import time
-from Windows import constants
+import constants
 
 starttime = time.time()
 toaster = ToastNotifier()
